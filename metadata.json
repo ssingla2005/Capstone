@@ -1,0 +1,7 @@
+{
+  "name": "AI Drowsiness Detector",
+  "description": "An intelligent web application that uses your camera and the Gemini API to detect signs of drowsiness in real-time and alert you to help you stay awake and safe.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
